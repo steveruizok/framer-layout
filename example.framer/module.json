@@ -1,0 +1,9 @@
+{
+	"name": "Layout",
+	"description": "Use a Sketch-like layout to position your Framer layers.",
+	"author": "Steve Ruiz",
+	"require": "{ Layout } = require 'Layout'",
+	"install": "Layout.coffee",
+	"example": "example.coffee",
+	"thumb": "thumb.png"
+}
