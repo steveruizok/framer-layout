@@ -9,9 +9,15 @@ Screen.backgroundColor = "#000"
 layout = new Layout
 	columns: true
 	rows: true
+	horizontalLines: false
+	stroke: false
 	rowHeight: 5
 	numberOfColumns: 6
 	columnWidth: 48
+	gutterHeight: 16
+	rowHeight: 4
+	dark: "rgba(100, 255, 255, .5)"
+	light: "rgba(255, 255, 255, .16)"
 	
 new Layer
 	x: layout.column(1).x
