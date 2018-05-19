@@ -1,6 +1,17 @@
 # Layout
 
-Display a visual layout, very similar to Sketch's Layout Settings, and use it to set layer positions.
+<h1 align="center">
+	Layout
+</h1>
+<p align="center">
+	Display a visual layout in Framer and use it to set layer positions.
+</p>
+<p align="center">
+	<a href="https://framer.cloud/UIaVn"><img src="/screenshot.png" width='60%'/></a>
+</p>
+<p align="center">  
+	<a href="https://framer.cloud/UIaVn">See the demo</a>
+</p>
 
 # Installation
 
@@ -88,3 +99,7 @@ You can toggle the Layout's visiblity at any time using OPTION + L.
 # Support
 
 For support, raise an issue on github.com/steveruizok/framer-layout or find me in the Framer slack channel at framer.slack.com.
+
+# Contact
+
+- Follow me at <a href="https://twitter.com/steveruizok">@steveruizok</a>
