@@ -1,9 +1,5 @@
 # Layout
 
-<hr>
-
-# Introduction
-
 Display a visual layout, very similar to Sketch's Layout Settings, and use it to set layer positions.
 
 # Installation
