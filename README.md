@@ -7,8 +7,6 @@
 Display a visual layout, very similar to Sketch's Layout Settings, and use it to set layer positions.
 
 
-# Usage
-
 # Installation
 
 Install with Framer Modules:
@@ -31,7 +29,7 @@ Or install Layout just like any other Framer module:
 myLayout = new Layout
 ```
 
-## Customizing your Layout
+# Usage
 
 Layouts come with the following default options:
 
