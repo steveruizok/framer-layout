@@ -1,5 +1,3 @@
-# Layout
-
 <h1 align="center">
 	Layout
 </h1>
