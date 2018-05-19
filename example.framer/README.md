@@ -11,7 +11,14 @@ Display a visual layout, very similar to Sketch's Layout Settings, and use it to
 
 # Installation
 
-Install Layout just like any other Framer module:
+Install with Framer Modules:
+
+<a href='https://open.framermodules.com/framer-layout'>
+    <img alt='Install with Framer Modules'
+    src='https://www.framermodules.com/assets/badge@2x.png' width='160' height='40' />
+</a>
+
+Or install Layout just like any other Framer module:
 
 - Place the `Layout.coffee` module into your project's modules folder 
 - In your project, `require` the module with `{ Layout } = require "Layout"
