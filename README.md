@@ -1,6 +1,6 @@
 # Layout
 
-###@steveruizok
+### @steveruizok
 
 # Introduction
 
