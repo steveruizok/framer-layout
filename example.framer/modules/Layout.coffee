@@ -1,4 +1,4 @@
-class Layout extends Layer
+class exports.Layout extends Layer
 	constructor: (options = {}) ->
 		
 		_.defaults options,
